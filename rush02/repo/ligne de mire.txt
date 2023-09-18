@@ -1,0 +1,22 @@
+vérifier l'entrée
+
+convertir l'entree en "blocks", un tableau de taille "len_blocks" de 3 char chacun
+
+
+extraire le dictionnaire dans une chaine "s_dict" et vérifier cette chaine
+
+construire le tableau "map" des adresses ordonnees des lignes correctes de "s_dict"
+
+
+parcourir "blocks" avec "map" et ecrire la sortie
+
+
+
+
+a faire par philippe :
+char *ft_get_key(char *ligne de s_dict) -> clé
+char *ft_get_value(char *ligne de s_dict) -> valeur
+char *ft_block_to_string(block)
+
+a faire par yann :
+char *ft_blocks_to_string(blocks, len_blocks)

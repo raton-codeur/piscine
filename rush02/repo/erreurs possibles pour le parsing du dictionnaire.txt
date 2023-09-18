@@ -1,0 +1,7 @@
+ouverture du fichier impossible pour size_file ≡ taille de 0
+
+ouverture du fichier impossible pour file_to_string -> string non remplie
+
+erreur de read dans size_file -> mauvaise taille et segfault pour le remplissage
+
+erreur de read dans file_to_string -> string pas completement remplie
